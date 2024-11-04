@@ -1,4 +1,4 @@
-<style>
+
 .book-container {
     display: flex;
     justify-content: center;
@@ -20,4 +20,7 @@
     font-size: 24px;
     font-weight: bold;
 }
-</style>
+.text1{
+    text-align: left;
+    position: relative;left: 10px;
+}
